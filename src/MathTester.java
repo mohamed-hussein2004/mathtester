@@ -17,6 +17,7 @@ public class MathTester {
         System.out.println("secondNumber / firstNumber is "+ (secondNumber/firstNumber));
         System.out.println("the modulus of the secondNumber by the firstNumber"+(firstNumber+secondNumber));
         System.out.print("Hello World");
+        System.out.print("hello local computer");
 
 
 
