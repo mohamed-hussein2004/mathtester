@@ -5,6 +5,8 @@ public class MathTester {
         String secondWord;
         int firstNumber,secondNumber, total;
 
+
+
         firstWord = "dog";
         secondWord = "house";
         firstNumber = 5;
