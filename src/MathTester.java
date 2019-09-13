@@ -19,7 +19,12 @@ public class MathTester {
         total = total + 10;
         System.out.println(total);
 
-       
+
+
+         /* System.out.println(firstWord+secondWord);
+        System.out.println(firstWord+(firstNumber+secondNumber));
+        System.out.println("firstNumber + SecondNumber is " + (firstNumber+secondNumber));
+        System.out.println("firstNumber - secondNumber is "+ (firstNumber-secondNumber));
 
 
 
