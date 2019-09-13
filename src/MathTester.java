@@ -14,6 +14,15 @@ public class MathTester {
 
 
 
+        total = firstNumber+secondNumber;
+        System.out.println(total);
+        total = total + 10;
+        System.out.println(total);
+
+       
+
+
+
 
 
 
